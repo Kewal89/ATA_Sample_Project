@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ATA_Sample_Project/static/css/main.8451f3da.css",
-    "main.js": "/ATA_Sample_Project/static/js/main.370bdfab.js",
+    "main.css": "/ATA_Sample_Project/static/css/main.d04acbdc.css",
+    "main.js": "/ATA_Sample_Project/static/js/main.39928d8a.js",
     "static/js/787.ef88b546.chunk.js": "/ATA_Sample_Project/static/js/787.ef88b546.chunk.js",
     "static/media/Profile.svg": "/ATA_Sample_Project/static/media/Profile.86da09f1581d05419fdc0a8888940afc.svg",
     "static/media/AppIcon.svg": "/ATA_Sample_Project/static/media/AppIcon.6e973898c5b75267967aabb9f5d3cbc4.svg",
@@ -27,12 +27,12 @@
     "static/media/Dropdown.svg": "/ATA_Sample_Project/static/media/Dropdown.f5519562b34a238fbf26fe961cac4312.svg",
     "static/media/Plus.svg": "/ATA_Sample_Project/static/media/Plus.044df27d3ab8fcc4fc6eea47acc395aa.svg",
     "static/media/Keyboard.svg": "/ATA_Sample_Project/static/media/Keyboard.4f25b3d4b534f1131325b8435efe5625.svg",
-    "main.8451f3da.css.map": "/ATA_Sample_Project/static/css/main.8451f3da.css.map",
-    "main.370bdfab.js.map": "/ATA_Sample_Project/static/js/main.370bdfab.js.map",
+    "main.d04acbdc.css.map": "/ATA_Sample_Project/static/css/main.d04acbdc.css.map",
+    "main.39928d8a.js.map": "/ATA_Sample_Project/static/js/main.39928d8a.js.map",
     "787.ef88b546.chunk.js.map": "/ATA_Sample_Project/static/js/787.ef88b546.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8451f3da.css",
-    "static/js/main.370bdfab.js"
+    "static/css/main.d04acbdc.css",
+    "static/js/main.39928d8a.js"
   ]
 }

@@ -133,6 +133,7 @@ const SideBarBottonData = [
         },
         suffixIcon: undefined,
         suffixText: 44,
+        suffixGrey: 1,
         children: [
           {
             id: "Structure",

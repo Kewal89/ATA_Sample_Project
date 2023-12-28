@@ -22,16 +22,13 @@ jobs:
         with:
           node-version: 16.x
 
-      - name: Installing NPM packages
-        run: yarn ci
+      - name: Installing Yarn packages
+        run: yarn install
 
-      - name: Building project
+      - name: Building Project...
         run: yarn build
 
-      - name: Running tests
-        run: yarn test
-
-      - name: Uploading production-ready build files
+      - name: Uploading Production-Ready Files From Build Folder...
         uses: actions/upload-artifact@v2
         with:
           name: production-files

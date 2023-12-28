@@ -1,9 +1,12 @@
+import { observer } from "mobx-react"
+import style from "./Main.module.css"
+
 const Main = () => {
   return (
-    <aside>
+    <main className={style.MainContainer}>
       
-    </aside>
+    </main>
   )
 }
 
-export default Main
+export default observer(Main)

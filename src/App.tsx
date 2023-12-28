@@ -1,10 +1,12 @@
 import React from "react"
-import { Header } from "./Components"
+import { Header, Main, SideBar } from "./Components"
 
 function App() {
   return (
     <div className="App">
       <Header />
+      <SideBar />
+      <Main />
     </div>
   )
 }

@@ -1,0 +1,90 @@
+.ListItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.ListItem:hover {
+  background-color: #f2f2f2aa;
+}
+
+.ListItem:not(:last-child) {
+  margin-bottom: 4px;
+
+}
+
+.LeftSide {
+  display: flex;
+  align-items: center;
+  column-gap: 8px;
+}
+
+.ItemIcon {
+  display: flex;
+  align-items: center;
+}
+
+.ItemName {
+  color: #212129;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: -0.1px;
+}
+
+.ListItem[data-id="Compass"] .ItemName {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+}
+
+.ListItem[data-id="Marketing"] .ItemName {
+  color: #DF5FFE;
+  font-weight: 700;
+}
+
+.ListItem[data-id="Finance"] .ItemName {
+  color: #50A3D2;
+  font-weight: 700;
+}
+
+.ListItem[data-id="Compass"] .RightSide {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.SuffixText {
+  display: block;
+  min-height: 20px;
+  padding: 0 6px;
+  color: #8C51ED;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: -0.4px;
+  border-radius: 999px;
+  background: #E8DCFB;
+}
+
+.SuffixText[data-grey="1"] {
+  color: #8C8EA5;
+  background-color: #ECECF5;
+}
+
+.ChildrenItem {
+  display: flex;
+  flex-direction: column;
+  padding-left: 28px;
+}
+
+.ChildrenItem .ListItem {
+
+}

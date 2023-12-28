@@ -39,7 +39,7 @@ const Header = observer(() => {
           <img src={NewIcon} alt="New Icon" width={20} height={20} />
           {"New"}
         </button>
-        <img src={Notify} alt="Notify Icon" width={20} height={20} />
+        <img src={Notify} alt="Notify Icon" className={style.NotifyIcon} width={20} height={20} />
         <div className={style.ProfileIcon}>
           <img src={ProfileIcon} alt="Profile Icon" width={29.71} height={29.71} />
         </div>

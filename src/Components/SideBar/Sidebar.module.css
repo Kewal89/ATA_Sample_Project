@@ -1,4 +1,76 @@
 .SideBarContainer {
   display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 0;
+  top: 48px;
   max-width: 243px;
+  width: 100%;
+  height: calc(100vh - 48px);
+  padding-top: 16px;
+  border-right: 1px solid #E5E6E8;
+  background: #FFF;
+}
+
+.SideHeader {
+  display: flex;
+  column-gap: 8px;
+  width: 100%;
+  height: max-content;
+  padding: 0 12px;
+  margin-bottom: 16px;
+  color:  #8C8EA5;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: -0.1px;
+}
+
+.DropdownIcon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.CollapseSide {
+  background-color: transparent;
+  border: none;
+  margin-left: auto;
+  cursor: pointer;
+}
+
+.ListCollection {
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.ListOne,
+.ListTwo {
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+  border-bottom: 1px solid #E5E6E8;
+}
+
+.ListThree {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 48px;
+  min-height: 48px;
+  margin-top: auto;
+  border-top: 1px solid #E5E6E8;
+  z-index: 1;
+  background-color: #fff;
+}
+
+.ListThree:hover {
+  background-color: #f2f2f2aa;
+  cursor: pointer;
 }

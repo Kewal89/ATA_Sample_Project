@@ -23,7 +23,7 @@ jobs:
           node-version: 16.x
 
       - name: Installing NPM packages
-        run: yarn ci
+        run: yarn install
 
       - name: Building project
         run: yarn build

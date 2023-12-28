@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ATA_Sample_Project/static/css/main.8451f3da.css",
+    "main.js": "/ATA_Sample_Project/static/js/main.370bdfab.js",
+    "static/js/787.ef88b546.chunk.js": "/ATA_Sample_Project/static/js/787.ef88b546.chunk.js",
+    "static/media/Profile.svg": "/ATA_Sample_Project/static/media/Profile.86da09f1581d05419fdc0a8888940afc.svg",
+    "static/media/AppIcon.svg": "/ATA_Sample_Project/static/media/AppIcon.6e973898c5b75267967aabb9f5d3cbc4.svg",
+    "static/media/Mac.svg": "/ATA_Sample_Project/static/media/Mac.3298f686a7deaddc03a1c2f1bc1a545c.svg",
+    "static/media/Toggle.svg": "/ATA_Sample_Project/static/media/Toggle.18c4d5fbf120fdfb3fbdad2dff434bcc.svg",
+    "static/media/Setting.svg": "/ATA_Sample_Project/static/media/Setting.3ffbb28c59b00fb28c30f7e2c0605f03.svg",
+    "static/media/Files.svg": "/ATA_Sample_Project/static/media/Files.303028ebdbefece888fd6ae75872aa75.svg",
+    "static/media/Compass.svg": "/ATA_Sample_Project/static/media/Compass.6f1fa6e328ce48abb0d9756a299b9294.svg",
+    "static/media/Notify.svg": "/ATA_Sample_Project/static/media/Notify.25f56b447e2d139e4604c7f00e70728c.svg",
+    "static/media/Contacts.svg": "/ATA_Sample_Project/static/media/Contacts.b10fa9802ef6dbcbf9df2173b83240e4.svg",
+    "static/media/Search.svg": "/ATA_Sample_Project/static/media/Search.f5f7403b07aff45739c625bb053f2838.svg",
+    "static/media/Docs.svg": "/ATA_Sample_Project/static/media/Docs.c8fb15219fa9683b4b401e01f7655ffc.svg",
+    "static/media/JoinTeam.svg": "/ATA_Sample_Project/static/media/JoinTeam.6efa446e93f340502b772767effbd52a.svg",
+    "static/media/Structure.svg": "/ATA_Sample_Project/static/media/Structure.f1ec411d1f395fa16425146447707212.svg",
+    "static/media/Chat.svg": "/ATA_Sample_Project/static/media/Chat.34e13648d5767e4e9f7fc516ed9421d5.svg",
+    "index.html": "/ATA_Sample_Project/index.html",
+    "static/media/Inbox.svg": "/ATA_Sample_Project/static/media/Inbox.507dea87e76c232bdefccd6c0c60a104.svg",
+    "static/media/Finance.svg": "/ATA_Sample_Project/static/media/Finance.255c55742f9d24f4005cc9b14270fbd9.svg",
+    "static/media/OrgSpace.svg": "/ATA_Sample_Project/static/media/OrgSpace.e5001bd42a88704f5a007654e40a2587.svg",
+    "static/media/Marketing.svg": "/ATA_Sample_Project/static/media/Marketing.cccad3cc020c742016ed938cbeb5121c.svg",
+    "static/media/List.svg": "/ATA_Sample_Project/static/media/List.3aadeeecf22df08ece0d071056f68c99.svg",
+    "static/media/CollapseSide.svg": "/ATA_Sample_Project/static/media/CollapseSide.266ed95e119761cfe3de739eb9c1404a.svg",
+    "static/media/Dropdown.svg": "/ATA_Sample_Project/static/media/Dropdown.f5519562b34a238fbf26fe961cac4312.svg",
+    "static/media/Plus.svg": "/ATA_Sample_Project/static/media/Plus.044df27d3ab8fcc4fc6eea47acc395aa.svg",
+    "static/media/Keyboard.svg": "/ATA_Sample_Project/static/media/Keyboard.4f25b3d4b534f1131325b8435efe5625.svg",
+    "main.8451f3da.css.map": "/ATA_Sample_Project/static/css/main.8451f3da.css.map",
+    "main.370bdfab.js.map": "/ATA_Sample_Project/static/js/main.370bdfab.js.map",
+    "787.ef88b546.chunk.js.map": "/ATA_Sample_Project/static/js/787.ef88b546.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8451f3da.css",
+    "static/js/main.370bdfab.js"
+  ]
+}

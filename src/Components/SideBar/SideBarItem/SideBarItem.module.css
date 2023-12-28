@@ -60,8 +60,11 @@
 }
 
 .SuffixText {
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
   min-height: 20px;
+  min-width: 28px;
   padding: 0 6px;
   color: #8C51ED;
   font-family: Inter;
@@ -85,6 +88,4 @@
   padding-left: 28px;
 }
 
-.ChildrenItem .ListItem {
-
-}
+.ChildrenItem .ListItem {}

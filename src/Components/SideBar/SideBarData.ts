@@ -28,7 +28,7 @@ const SideBarTopData = [
       height: 20
     },
     suffixIcon: undefined,
-    suffixText: 17
+    suffixText: undefined
   },
   {
     id: "Inbox",
@@ -39,7 +39,7 @@ const SideBarTopData = [
       height: 20
     },
     suffixIcon: undefined,
-    suffixText: 6
+    suffixText: 17
   },
   {
     id: "Chat",

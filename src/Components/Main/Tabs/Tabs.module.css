@@ -1,0 +1,47 @@
+.TabList {
+  display: flex;
+  align-items: center;
+  column-gap: 12px;
+  height: 40px;
+}
+
+.TabItem {
+  position: relative;
+  display: flex;
+  align-items: center;
+  column-gap: 8px;
+  cursor: pointer;
+  height: 40px;
+  border: none;
+  background-color: transparent;
+  padding: 0;
+}
+
+
+
+.Prefix,
+.Suffix {
+  display: flex;
+  align-items: center;
+}
+
+.Label {
+  color: #212129;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: -0.1px;
+}
+
+.TabItem.Selected .Label {
+  color: #8C51ED;
+  font-weight: 700;
+}
+
+.Hightlighter {
+  position: absolute;
+  bottom: 0;
+
+}

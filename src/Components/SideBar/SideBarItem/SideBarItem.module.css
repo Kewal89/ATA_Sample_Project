@@ -7,7 +7,7 @@
   cursor: pointer;
 }
 
-.ListItem:hover {
+.ListItem:not([data-id="JoinTeam"]):hover {
   background-color: #f2f2f2aa;
 }
 

@@ -19,7 +19,7 @@ const SideBarItem = observer(({ item }: any) => {
               {suffixText}
             </span>
           )}
-          {suffixIcon !== undefined && <img src={suffixIcon} alt={`${name} icon`} />}
+          {suffixIcon !== undefined && <img src={suffixIcon} alt={`${name} icon`} tabIndex={0} />}
         </div>
       </div>
       {item.children && (

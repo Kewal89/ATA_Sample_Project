@@ -15,16 +15,7 @@
   column-gap: 10px;
 }
 
-.Logo {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 28px;
-  height: 28px;
-  border-radius: 3.5px;
-  border: 0.875px solid #E5E6E8;
-  background: linear-gradient(180deg, #FFF 37.5%, #EDEDED 100%);
-}
+.Logo {}
 
 .BrandName {
   color: #8912FE;
@@ -51,7 +42,7 @@
 }
 
 .SearchInput {
-  color: #B3B4CE;
+  color: #212129;
   text-align: center;
   font-family: Inter;
   font-size: 14px;
@@ -59,6 +50,12 @@
   font-weight: 500;
   line-height: 140%;
   letter-spacing: -0.1px;
+  border: none;
+  outline: none;
+}
+
+.SearchInput::placeholder {
+  color: #B3B4CE;
 }
 
 .Actions {
@@ -71,12 +68,6 @@
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  width: 18px;
-  height: 18px;
-  border-radius: 4px;
-  border: 1px solid #E5E6E8;
-  background: #FFF;
-  box-shadow: 0px -1px 4px 0px rgba(0, 0, 0, 0.05) inset;
 }
 
 .ProfileInfo {
@@ -96,6 +87,10 @@
   font-weight: 500;
   line-height: 140%;
   letter-spacing: -0.1px;
+}
+
+.Focus img {
+  margin-bottom: -3px;
 }
 
 .NewIcon {
@@ -127,9 +122,4 @@
 .ProfileIcon {
   display: flex;
   cursor: pointer;
-  width: 32px;
-  height: 32px;
-  border-radius: 940.235px;
-  border: 1.143px solid #7CBD6B;
-  box-shadow: 0px 0px 0px 0px #FFF inset;
 }

@@ -14,34 +14,34 @@ const Header = observer(() => {
     <header className={style.HeaderContainer}>
       <div className={style.Branding}>
         <div className={style.Logo}>
-          <img src={Logo} alt="Atavya Logo" width={30} height={16} />
+          <img src={Logo} alt="Atavya Logo" width={28} height={28} />
         </div>
         <div className={style.BrandName}>{"Atavya"}</div>
       </div>
       <div className={style.SearchBar}>
         <img src={SearchIcon} alt="Search Icon" width={20} height={20} />
-        <div className={style.SearchInput}>{"Search for lists, tasks or files"}</div>
+        <input className={style.SearchInput} placeholder="Search for lists, tasks or files" />
         <div className={style.Actions}>
           <div className={style.Keys}>
-            <img src={MacIcon} alt="Mac Key Icon" width={10.63} height={10.63} />
+            <img src={MacIcon} alt="Mac Key Icon" width={18} height={18} />
           </div>
           <div className={style.Keys}>
-            <img src={WindowsIcon} alt="Windows Key Icon" width={10.63} height={10.63} />
+            <img src={WindowsIcon} alt="Windows Key Icon" width={18} height={18} />
           </div>
         </div>
       </div>
       <div className={style.ProfileInfo}>
         <div className={style.Focus}>
-          <img src={Toggle} alt="Toggle Icon" width={32} height={20} />
+          <img src={Toggle} alt="Toggle Icon" width={32} height={20} tabIndex={0} />
           {"Focus"}
         </div>
         <button className={style.NewIcon}>
           <img src={NewIcon} alt="New Icon" width={20} height={20} />
           {"New"}
         </button>
-        <img src={Notify} alt="Notify Icon" className={style.NotifyIcon} width={20} height={20} />
-        <div className={style.ProfileIcon}>
-          <img src={ProfileIcon} alt="Profile Icon" width={29.71} height={29.71} />
+        <img src={Notify} alt="Notify Icon" className={style.NotifyIcon} width={20} height={20} tabIndex={0} />
+        <div className={style.ProfileIcon} tabIndex={0}>
+          <img src={ProfileIcon} alt="Profile Icon" width={32} height={32} />
         </div>
       </div>
     </header>

@@ -4,4 +4,5 @@
   width: calc(100% - 243px);
   height: calc(100% - 48px);
   background: #F4F5F5;
+  border-left: 1px solid #E5E6E8;
 }

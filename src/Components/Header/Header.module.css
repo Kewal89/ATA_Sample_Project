@@ -78,6 +78,7 @@
 
 .Focus {
   display: flex;
+  align-items: center;
   column-gap: 8px;
   cursor: pointer;
   color: #8C8EA5;
@@ -87,10 +88,6 @@
   font-weight: 500;
   line-height: 140%;
   letter-spacing: -0.1px;
-}
-
-.Focus img {
-  margin-bottom: -3px;
 }
 
 .NewIcon {

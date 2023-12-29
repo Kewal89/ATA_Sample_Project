@@ -6,7 +6,7 @@ const Breadcrumb = ({ data }: any) => {
   return (
     <div className={style.BreadcrumbContainer}>
       {data.map((item: any, index: number) => (
-        <div key={item.id} className={style.BreadItem}>
+        <div key={item.id} className={style.BreadItem} title={item.label}>
           <div className={style.Label} tabIndex={0}>{item.label}</div>
           {index < data.length - 1 && <img src={DividerIcon} alt=">" />}
         </div>

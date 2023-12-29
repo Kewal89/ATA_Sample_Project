@@ -2,6 +2,7 @@ import style from "./Tabs.module.css"
 import { observer } from "mobx-react"
 import Dropdown from "../../../assets/Main/Dropdown.svg"
 import Selected from "../../../assets/Main/Selected.svg"
+import { ReactSVG } from "react-svg"
 
 const Tabs = ({ data, value, onClick }: any) => {
   const onClickTabItem = (item: any) => {
@@ -16,9 +17,8 @@ const Tabs = ({ data, value, onClick }: any) => {
           className={`${style.TabItem} ${value === item.id ? style.Selected : ""}`} //
           onClick={() => onClickTabItem(item)}
         >
-          <div className={style.Prefix}>
-            <img src={item.prefixIcon} alt={`${item.id} Icon`} width={20} height={20} />
-          </div>
+          {/* <img src={item.prefixIcon} alt={`${item.id} Icon`} width={20} height={20} /> */}
+          <ReactSVG className={style.Prefix} src={item.prefixIcon} width={20} height={20} />
           <div className={style.Label}>{item.label}</div>
           <div className={style.Suffix} tabIndex={0}>
             <img src={Dropdown} alt={`Dropdown Icon`} width={20} height={20} />

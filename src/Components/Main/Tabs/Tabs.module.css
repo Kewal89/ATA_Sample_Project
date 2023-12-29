@@ -25,6 +25,14 @@
   align-items: center;
 }
 
+.TabItem .Prefix {
+  color: #8C8EA5;
+}
+
+.TabItem.Selected .Prefix {
+  color: #8C51ED;
+}
+
 .Label {
   color: #212129;
   font-family: Inter;

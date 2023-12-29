@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/ATA_Sample_Project/static/css/main.d04acbdc.css",
-    "main.js": "/ATA_Sample_Project/static/js/main.39928d8a.js",
+    "main.css": "/ATA_Sample_Project/static/css/main.0c91887a.css",
+    "main.js": "/ATA_Sample_Project/static/js/main.4b646d0d.js",
     "static/js/787.ef88b546.chunk.js": "/ATA_Sample_Project/static/js/787.ef88b546.chunk.js",
-    "static/media/Profile.svg": "/ATA_Sample_Project/static/media/Profile.86da09f1581d05419fdc0a8888940afc.svg",
-    "static/media/AppIcon.svg": "/ATA_Sample_Project/static/media/AppIcon.6e973898c5b75267967aabb9f5d3cbc4.svg",
-    "static/media/Mac.svg": "/ATA_Sample_Project/static/media/Mac.3298f686a7deaddc03a1c2f1bc1a545c.svg",
+    "static/media/Profile.svg": "/ATA_Sample_Project/static/media/Profile.8cf0a06a64f648fe3322c1d19f67e44e.svg",
+    "static/media/AppIcon.svg": "/ATA_Sample_Project/static/media/AppIcon.376079fa4823f4b078fb2b3093fd2b94.svg",
+    "static/media/Mac.svg": "/ATA_Sample_Project/static/media/Mac.6a6992f0d9234285a2f249835f593e39.svg",
     "static/media/Toggle.svg": "/ATA_Sample_Project/static/media/Toggle.18c4d5fbf120fdfb3fbdad2dff434bcc.svg",
     "static/media/Setting.svg": "/ATA_Sample_Project/static/media/Setting.3ffbb28c59b00fb28c30f7e2c0605f03.svg",
     "static/media/Files.svg": "/ATA_Sample_Project/static/media/Files.303028ebdbefece888fd6ae75872aa75.svg",
@@ -15,6 +15,7 @@
     "static/media/Search.svg": "/ATA_Sample_Project/static/media/Search.f5f7403b07aff45739c625bb053f2838.svg",
     "static/media/Docs.svg": "/ATA_Sample_Project/static/media/Docs.c8fb15219fa9683b4b401e01f7655ffc.svg",
     "static/media/JoinTeam.svg": "/ATA_Sample_Project/static/media/JoinTeam.6efa446e93f340502b772767effbd52a.svg",
+    "static/media/Keyboard.svg": "/ATA_Sample_Project/static/media/Keyboard.1cad63213755789070cb262626204b82.svg",
     "static/media/Structure.svg": "/ATA_Sample_Project/static/media/Structure.f1ec411d1f395fa16425146447707212.svg",
     "static/media/Chat.svg": "/ATA_Sample_Project/static/media/Chat.34e13648d5767e4e9f7fc516ed9421d5.svg",
     "index.html": "/ATA_Sample_Project/index.html",
@@ -25,14 +26,13 @@
     "static/media/List.svg": "/ATA_Sample_Project/static/media/List.3aadeeecf22df08ece0d071056f68c99.svg",
     "static/media/CollapseSide.svg": "/ATA_Sample_Project/static/media/CollapseSide.266ed95e119761cfe3de739eb9c1404a.svg",
     "static/media/Dropdown.svg": "/ATA_Sample_Project/static/media/Dropdown.f5519562b34a238fbf26fe961cac4312.svg",
-    "static/media/Plus.svg": "/ATA_Sample_Project/static/media/Plus.044df27d3ab8fcc4fc6eea47acc395aa.svg",
-    "static/media/Keyboard.svg": "/ATA_Sample_Project/static/media/Keyboard.4f25b3d4b534f1131325b8435efe5625.svg",
-    "main.d04acbdc.css.map": "/ATA_Sample_Project/static/css/main.d04acbdc.css.map",
-    "main.39928d8a.js.map": "/ATA_Sample_Project/static/js/main.39928d8a.js.map",
+    "static/media/Plus.svg": "/ATA_Sample_Project/static/media/Plus.1cbf36ebc782059646712e7c4f7c0a2a.svg",
+    "main.0c91887a.css.map": "/ATA_Sample_Project/static/css/main.0c91887a.css.map",
+    "main.4b646d0d.js.map": "/ATA_Sample_Project/static/js/main.4b646d0d.js.map",
     "787.ef88b546.chunk.js.map": "/ATA_Sample_Project/static/js/787.ef88b546.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d04acbdc.css",
-    "static/js/main.39928d8a.js"
+    "static/css/main.0c91887a.css",
+    "static/js/main.4b646d0d.js"
   ]
 }
